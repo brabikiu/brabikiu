@@ -1,13 +1,16 @@
 ### Olá, pessoal!
+### Seja bem-vindo em meu perfil.
+### Sou licenciado em Administração em Marketing, me especializei em Pesquisa de Mercado e Mídia Digital
+### Eu gosto muito de Desenvolvimento e ##RRSS.
+### Minha paixão pelo desenvolvimento começou como um hobby há mais de 10 anos e agora eu decidi ser um desenvolvedor de back-end.
 
-<!--
-Olá! Pessoal
-Seja bem-vindo nesste perfil
+### Tenho conhecimento de HTML, experiẽncia em Wordpress e atualmemte estou aprendendo CCS e outros linguguagens pelo medio da Toti.
 
-Sou licenciado em Administração em Marketing, me especializei em pesquisa de mercado e mídia digital e gosto muito de programação e #RRSS
-Minha paixão pelo desenvolvimento começou como um hobby, e agora eu decidi ser um desenvolvedor de back-end. 
 
-Tenho conhecimento de HTML,experiência em Wordpress e estou aprendendo CCS e outros linguagens pelo medio da Toti.
+
+
+
+
 
 
 -->
