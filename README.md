@@ -5,6 +5,9 @@
 #### Tenho conhecimento de HTML, experiẽncia em Wordpress e atualmemte estou aprendendo CCS e outros linguguagens pelo medio da Toti.
 
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brabikiu)](https://github.com/brabikiu/)
+
+
 
 
 
