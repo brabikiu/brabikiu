@@ -8,9 +8,9 @@ Minha paixão pelo desenvolvimento começou como um hobby há mais de 10 anos e 
 
 ## Skills
 
-https://img.shields.io/badge/ANGULAR-TypeScript-red
-https://img.shields.io/badge/HTML-HyperText%20Markup-orange
-https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets%20-blue
+<img src="https://img.shields.io/badge/ANGULAR-TypeScript-red">
+<img src="https://img.shields.io/badge/HTML-HyperText%20Markup-orange">
+<img src="https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets%20-blue">
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brabikiu)](https://github.com/brabikiu/)
 
