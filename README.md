@@ -6,10 +6,15 @@ Minha paixão pelo desenvolvimento começou como um hobby há mais de 10 anos e 
 
 #### Tenho conhecimento de HTML, experiẽncia em Wordpress e atualmemte estou aprendendo CCS e outros linguguagens pelo medio da Toti.
 
+## Skills
+
+https://img.shields.io/badge/ANGULAR-TypeScript-red
+https://img.shields.io/badge/HTML-HyperText%20Markup-orange
+https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets%20-blue
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brabikiu)](https://github.com/brabikiu/)
 
-
+## Mis redes sociales
 <a href="https://www.linkedin.com/in/barbaravillegas/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
