@@ -1,6 +1,6 @@
-#### Seja bem-vindo em meu perfil.
+### Seja bem-vindo em meu perfil.
 
-## Acerca de mi
+## Sobre mim
 Apasionada pelo Marketing e o Desarrollo Web, licenciada em Administração em Marketing, me especializei em Pesquisa de Mercado e Mídia Digital
 Minha paixão pelo desenvolvimento começou como um hobby há mais de 10 anos e hoje 
 
@@ -15,7 +15,7 @@ Minha paixão pelo desenvolvimento começou como um hobby há mais de 10 anos e 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brabikiu)](https://github.com/brabikiu/)
 
-## Mis redes sociales
+## Minhas redes sociais
 <a href="https://www.linkedin.com/in/barbaravillegas/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
