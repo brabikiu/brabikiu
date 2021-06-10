@@ -4,13 +4,14 @@
 Apasionada pelo Marketing e o Desarrollo Web, licenciada em Administração em Marketing, me especializei em Pesquisa de Mercado e Mídia Digital
 Minha paixão pelo desenvolvimento começou como um hobby há mais de 10 anos e hoje 
 
-#### Tenho conhecimento de HTML, experiẽncia em Wordpress e atualmemte estou aprendendo CCS e outros linguguagens pelo medio da Toti.
-
 ## Skills
 
-<img src="https://img.shields.io/badge/ANGULAR-TypeScript-red">
+
 <img src="https://img.shields.io/badge/HTML-HyperText%20Markup-orange">
 <img src="https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets%20-blue">
+<img src="https://img.shields.io/badge/%20Bootstrap-%20CSS%20framework-brightgreen">
+<img src="https://img.shields.io/badge/ANGULAR-TypeScript-red">
+<img src="https://img.shields.io/badge/%20Node.js-JavaScript%20runtime%20environment-green">
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brabikiu)](https://github.com/brabikiu/)
 
