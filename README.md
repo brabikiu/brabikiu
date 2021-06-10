@@ -1,4 +1,4 @@
-### Seja bem-vindo em meu perfil.
+### Seja bem-vindo em meu perfil!
 
 ## Sobre mim
 Apasionada pelo Marketing e o Desarrollo Web, licenciada em Administração em Marketing, me especializei em Pesquisa de Mercado e Mídia Digital
