@@ -2,7 +2,7 @@
 
 ## Sobre mim
 Apasionada pelo Marketing e o Desarrollo Web, licenciada em Administração em Marketing, me especializei em Pesquisa de Mercado e Mídia Digital
-Minha paixão pelo desenvolvimento começou como um hobby há mais de 10 anos e hoje 
+Minha paixão pelo desenvolvimento começou como um hobby há mais de 10 anos e hoje Atualmente iniciando minha carreira como Desenvolvedor(a) Full Stack Júnior.
 
 ## Linguagens
 
