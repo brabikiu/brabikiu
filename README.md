@@ -56,21 +56,22 @@ português
 
 
 <h1 align="center">Hi! I'm Barbara</h1>
-<h3 align="center">I'm full stack developer in process</h3>
+<h3 align="center">I'm full stack developer in process, passionate about web development and marketing, administration marketing degree </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brabikiu&label=Profile%20views&color=0e75b6&style=flat" alt="brabikiu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/brabikiu" target="blank"><img src="https://img.shields.io/twitter/follow/brabikiu?logo=twitter&style=for-the-badge" alt="brabikiu" /></a> </p>
 
-- 🔭 I’m currently working on [xcxdsgfd](xcxdsgfd)
+- Currently 
+- working on [xcxdsgfd](xcxdsgfd)
 
-- 🌱 I’m currently learning **React & Django**
+- learning **React & Django**
 
-- 👨‍💻 All of my projects are available at [xcxzvczxvxxc](xcxzvczxvxxc)
+- 💻 All of my projects are available at [xcxzvczxvxxc](xcxzvczxvxxc)
 
-- 📫 How to reach me **barbaraavillegas@gmail.com**
+- Reach me **barbaraavillegas@gmail.com**
 
-- ⚡ Fun fact **i'm a yoga teacher**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
