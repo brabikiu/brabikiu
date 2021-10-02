@@ -65,7 +65,7 @@ português
 
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://codepen.io/brabikiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="brabikiu" height="30" width="40" /></a>
 <a href="https://twitter.com/brabikiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brabikiu" height="30" width="40" /></a>
@@ -73,6 +73,9 @@ português
 <a href="https://stackoverflow.com/users/brabikiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="brabikiu" height="30" width="40" /></a>
 <a href="https://codesandbox.com/brabikiu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="brabikiu" height="30" width="40" /></a>
 <a href="https://instagram.com/brabikiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brabikiu" height="30" width="40" /></a>
+  <a href="mailto:barbaraavillegas@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
