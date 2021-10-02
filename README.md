@@ -1,5 +1,5 @@
 
-<h2 align="center">About me! ❤</h2>
+<h2 align="center">About me! 🤓 </h2>
 <h3 align="center">I'm full stack developer in process 📝, 
   passionate about web development and marketing, administration marketing degree </h3>
 
