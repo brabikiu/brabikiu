@@ -62,10 +62,10 @@ português
 
 <p align="left"> <a href="https://twitter.com/brabikiu" target="blank"><img src="https://img.shields.io/twitter/follow/brabikiu?logo=twitter&style=for-the-badge" alt="brabikiu" /></a> </p>
 
-- Currently 
-- working on [xcxdsgfd](xcxdsgfd)
+- Currently i'm 
+working on [xcxdsgfd](xcxdsgfd)
 
-- learning **React & Django**
+learning **React & Django**
 
 - 💻 All of my projects are available at [xcxzvczxvxxc](xcxzvczxvxxc)
 
