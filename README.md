@@ -80,7 +80,11 @@ português
 
 <h3 align="left"> Currently working on [xcxdsgfd](xcxdsgfd):</h3>
 
-<h3 align="left">You can reach me at **barbaraavillegas@gmail.com**:</h3>
+<h3 align="left">You can reach me at:</h3>
+<a href="mailto:barbaraavillegas@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+</a>
+**barbaraavillegas@gmail.com**
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/brabikiu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="brabikiu" /></a></p><br><br>
