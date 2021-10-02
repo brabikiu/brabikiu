@@ -44,12 +44,12 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brabikiu&show_icons=true&locale=en&layout=compact" alt="brabikiu" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brabikiu&show_icons=true&locale=en&layout=compact" alt="brabikiu" /></p>
 
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brabikiu&" alt="brabikiu" /></p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brabikiu&" alt="brabikiu" /></p>
 
 
 <br><br>
@@ -60,4 +60,4 @@
 
   
   <br><br>
-  <p align="center" [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com) /></p>
+  <p align="center"> [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com) </p>
