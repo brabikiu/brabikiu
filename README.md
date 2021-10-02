@@ -58,4 +58,6 @@
 
 
 
-<p align="center"> <a href="https://www.buymeacoffee.com/brabikiu"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="brabikiu"/> </p>
+  
+  <br><br>
+  <p align="center" [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com) /></p>
