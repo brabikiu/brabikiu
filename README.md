@@ -89,4 +89,9 @@ learning **React & Django**
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/brabikiu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="brabikiu" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brabikiu&show_icons=true&locale=en&layout=compact" alt="brabikiu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brabikiu&show_icons=true&locale=en&layout=compact" alt="brabikiu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brabikiu&show_icons=true&locale=en" alt="brabikiu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brabikiu&" alt="brabikiu" /></p>
+
