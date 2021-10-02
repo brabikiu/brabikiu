@@ -44,12 +44,12 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brabikiu&show_icons=true&locale=en&layout=compact" alt="brabikiu" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brabikiu&show_icons=true&locale=en&layout=compact" alt="brabikiu" /></p>
 
 
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=brabikiu&" alt="brabikiu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brabikiu&" alt="brabikiu" /></p>
 
 
 <br><br>
