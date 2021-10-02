@@ -40,6 +40,21 @@ português
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi! I'm Barbara</h1>
 <h3 align="center">I'm full stack developer in process</h3>
 
