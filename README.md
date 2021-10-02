@@ -74,7 +74,7 @@ português
 <a href="https://codesandbox.com/brabikiu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="brabikiu" height="30" width="40" /></a>
 <a href="https://instagram.com/brabikiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brabikiu" height="30" width="40" /></a>
   <a href="mailto:barbaraavillegas@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+  <img align="center" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a>
 </p>
 
@@ -83,12 +83,6 @@ português
 
 <h3 align="left"> Currently working on [xcxdsgfd](xcxdsgfd):</h3>
 
-<h3 align="left">You can reach </h3>
-<a href="mailto:barbaraavillegas@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
-</a>
-**barbaraavillegas@gmail.com**
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/brabikiu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="brabikiu" /></a></p><br><br>
 
@@ -96,5 +90,5 @@ português
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brabikiu&show_icons=true&locale=en" alt="brabikiu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brabikiu&" alt="brabikiu" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=brabikiu&" alt="brabikiu" /></p>
 
