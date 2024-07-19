@@ -53,10 +53,4 @@
 
 <br><br>
 
-
-
-
-
   
-  <br><br>
-  <p align="center"> [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com) </p>
