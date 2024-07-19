@@ -45,7 +45,7 @@
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brabikiu&show_icons=true&locale=en&layout=compact" alt="brabikiu" /></p>
 
-
+![Snake animation](https://github.com/brabikiu/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brabikiu&" alt="brabikiu" /></p>
