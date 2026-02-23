@@ -9,7 +9,7 @@ Full Stack Developer focused on ITSM solutions, Low-Code platforms and legacy sy
 
 - 💼 Working with enterprise ITSM platforms (CITSmart)
 - 🔧 Maintaining and modernizing legacy AngularJS applications
-- 🔄 Migrating business rules from Rhino to FaaS (Node.js)
+- 🔄 Rhino & FaaS (Node.js)
 - 🧠 Focused on performance, integrations and automation
 - 🗃️ PostgreSQL lover (query optimization enthusiast)
 - 🧘‍♀️ Hatha Yoga Instructor for adults and kids
