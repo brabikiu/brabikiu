@@ -1,55 +1,84 @@
+<h1 align="center">Hi 👋, I'm Barbara Villegas</h1>
+<h3 align="center">
+Full Stack Developer focused on ITSM solutions, Low-Code platforms and legacy system modernization
+</h3>
 
-<h2 align="center">About me! 🤓 </h2>
-<h3 align="center">I'm full stack developer in process 📝, 
-  passionate about web development and marketing, administration marketing degree </h3>
+---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=brabikiu&label=Profile%20views&color=0e75b6&style=flat" alt="brabikiu" /> </p>
+### 👩‍💻 About me
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=brabikiu&show_icons=true&locale=en" alt="brabikiu" /></p>
+- 💼 Working with enterprise ITSM platforms (CITSmart)
+- 🔧 Maintaining and modernizing legacy AngularJS applications
+- 🔄 Migrating business rules from Rhino to FaaS (Node.js)
+- 🧠 Focused on performance, integrations and automation
+- 🗃️ PostgreSQL lover (query optimization enthusiast)
+- 🧘‍♀️ Hatha Yoga Instructor for adults and kids
 
+🎓 Background in Administration & Marketing  
+🚀 Passionate about building scalable internal tools and business automation
 
+---
 
-<h3 align="center">Connect with me</h3>
+### 🔗 Connect with me
+
 <p align="center">
-<a href="https://codepen.io/brabikiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="brabikiu" height="30" width="30" /></a>
-<a href="https://twitter.com/brabikiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brabikiu" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/barbaravillegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barbaravillegas" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/brabikiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="brabikiu" height="30" width="30" /></a>
-<a href="https://codesandbox.com/brabikiu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="brabikiu" height="30" width="30" /></a>
-<a href="https://instagram.com/brabikiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brabikiu" height="30" width="30" /></a>
-  <a href="mailto:barbaraavillegas@gmail.com">
-  <img align="center" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+<a href="https://linkedin.com/in/barbaravillegas" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" />
+</a>
+<a href="mailto:barbaraavillegas@gmail.com">
+<img align="center" alt="Gmail" width="30px" src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
 </p>
 
-<h3 align="center">Skills 🚀</h3>
-<p align="center"> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="40"/> </a> </p>
+---
 
-<p align="center"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="30" height="40"/> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="40"/>  </p>
+### 🛠️ Tech Stack
 
-<p align="center"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="40"/> 
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="40"/> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="40"/> </p>
-  
-  
-<p align="center">  </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="40"/> </a> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="30" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="40"/> </a>  </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="40"/> </a> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="40"/> </a> </a> <a href="https://www.photoshop.com/en" target="_blank">  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="40"/>  </a>  </p>
+#### 💻 Frontend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+</p>
 
+#### ⚙️ Backend & Integrations
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+</p>
 
-<h3 align="center"> Currently learning </h3>
-<p <img align="center" </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="40"/></p>
+#### ☁️ DevOps & Tools
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</p>
 
+---
 
+### 📚 Currently learning
 
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+</p>
 
+---
 
+### 📊 GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=brabikiu&show_icons=true&locale=en"/>
+</p>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brabikiu&show_icons=true&locale=en&layout=compact" alt="brabikiu" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=brabikiu&show_icons=true&locale=en&layout=compact"/>
+</p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=brabikiu"/>
+</p>
 
-
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brabikiu&" alt="brabikiu" /></p>
-
-
-<br><br>
-
-  
+---
