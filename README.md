@@ -1,21 +1,79 @@
-<h1 align="center">Hi 👋, I'm Barbara Villegas</h1>
+<h1 align="center">Hi 👋 I'm Barbara Villegas</h1>
 <h3 align="center">
-Full Stack Developer focused on ITSM solutions, Low-Code platforms and legacy system modernization
+Full Stack Developer focused on Secure ITSM Solutions and Legacy System Modernization
 </h3>
 
 ---
 
 ### 👩‍💻 About me
 
-- 💼 Working with enterprise ITSM platforms (CITSmart)
-- 🔧 Maintaining and modernizing legacy AngularJS applications
-- 🔄 Rhino & FaaS (Node.js)
-- 🧠 Focused on performance, integrations and automation
-- 🗃️ PostgreSQL lover (query optimization enthusiast)
-- 🧘‍♀️ Hatha Yoga Instructor for adults and kids
+💼 Full Stack Developer working with enterprise ITSM platforms  
+📊 ITIL® 4 Certified  
+🔐 Focused on Secure Software Development practices  
+🔄 Rhino → FaaS Node.js
+🔗 Integrating REST APIs and automating corporate workflows  
+🗃️ PostgreSQL query optimization for performance  
+⚙️ Maintaining AngularJS legacy systems in production environments  
 
-🎓 Background in Administration & Marketing  
-🚀 Passionate about building scalable internal tools and business automation
+Currently preparing for **ISO/IEC 27001** implementation practices.
+
+Passionate about building scalable internal tools aligned with governance, risk and compliance requirements.
+
+---
+
+### 🛡️ Governance & Security
+
+- ITIL® 4 Framework
+- Secure Software Development Lifecycle (SSDLC)
+- Least Privilege Principle
+- Risk Management aligned development
+- Security by Design mindset
+- ISO/IEC 27001 (in progress)
+
+---
+
+### 🛠️ Tech Stack
+
+#### Frontend
+- AngularJS
+- JavaScript
+- HTML5
+- CSS3
+
+#### Backend & Integrations
+- Node.js (FaaS)
+- Express
+- REST APIs
+- Legacy System Modernization
+
+#### Database
+- PostgreSQL
+- SQL Performance Optimization
+
+#### DevOps & Tools
+- Docker
+- Git
+- Linux
+- Postman / Thunder Client
+
+---
+
+### 📚 Currently exploring
+- ISO/IEC 27001 practices
+- Secure Software Architecture
+- Modern Frontend (React)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=brabikiu&show_icons=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=brabikiu&layout=compact"/>
+</p>
 
 ---
 
@@ -29,56 +87,3 @@ Full Stack Developer focused on ITSM solutions, Low-Code platforms and legacy sy
 <img align="center" alt="Gmail" width="30px" src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
 </p>
-
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Frontend
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-</p>
-
-#### ⚙️ Backend & Integrations
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-</p>
-
-#### ☁️ DevOps & Tools
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-</p>
-
----
-
-### 📚 Currently learning
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=brabikiu&show_icons=true&locale=en"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=brabikiu&show_icons=true&locale=en&layout=compact"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brabikiu"/>
-</p>
-
----
